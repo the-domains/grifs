@@ -13,3 +13,8 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: grifs
+purpose:
+  - id: 1bb0bf7b-6d29-4fa5-8db3-49c2583bff12
+    type: internal
+    label: Wham
+    item: b65c608f-2c9e-48ad-85b3-95f058f0d5bb
