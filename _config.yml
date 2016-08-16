@@ -13,6 +13,10 @@ color:
 layout_spectrum: 0.722188730025664
 name: grifs
 style: the-composer
+navigation:
+  - name: glass
+    id: 1f1be093-96b2-4842-8629-0a8d9f1495a0
+    type: content
 purpose:
   - id: 1bb0bf7b-6d29-4fa5-8db3-49c2583bff12
     type: internal
