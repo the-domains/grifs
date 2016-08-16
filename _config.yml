@@ -1,6 +1,4 @@
-layout_spectrum: 0.722188730025664
 typography_spectrum: 0.026897848583757877
-style: the-composer
 color:
   brandStrength: 0.9530194231774658
   lightness: 0.9253367974888533
@@ -12,9 +10,15 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.722188730025664
 name: grifs
+style: the-composer
 purpose:
   - id: 1bb0bf7b-6d29-4fa5-8db3-49c2583bff12
     type: internal
     label: Wham
     item: b65c608f-2c9e-48ad-85b3-95f058f0d5bb
+  - id: 483b6a0a-690e-432c-868d-55c95eac373b
+    type: external
+    value: 'https://thegrid.io'
+    label: 'https://thegrid.io'
